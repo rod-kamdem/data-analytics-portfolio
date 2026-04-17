@@ -30,30 +30,30 @@ maxpulse: Maximum recorded pulse rate
 ## Methodology
 
 ### Part 1: Data Exploration
-Loaded dataset using SAS DATA step
-Reviewed structure and variables
-Prepared data for correlation analysis
+* Loaded dataset using SAS DATA step
+* Reviewed structure and variables
+* Prepared data for correlation analysis
 
 ### Part 2: Scatter Plot Analysis
-Generated scatter plots between key variables:
-      oxygen consumption vs pulse rates
-      runtime vs oxygen consumption
-      age vs fitness indicators
-Visually assessed relationships and trends
+* Generated scatter plots between key variables:
+      * oxygen consumption vs pulse rates
+      * runtime vs oxygen consumption
+      * age vs fitness indicators
+* Visually assessed relationships and trends
 
 ### Part 3: Correlation Analysis
-Computed Pearson correlation coefficients 
-Evaluated strength and direction of relationships between variables
+* Computed Pearson correlation coefficients 
+* Evaluated strength and direction of relationships between variables
 
 ### Part 4: Interpretation
-Interpreted positive and negative correlations
-Identified strong vs weak relationships among fitness indicators
+* Interpreted positive and negative correlations
+* Identified strong vs weak relationships among fitness indicators
 
 ### Part 5: Limitations of Correlation
-Correlation does not imply causation
-Sensitive to outliers
-Cannot capture non-linear relationships
-Limited in explaining complex physiological interactions
+* Correlation does not imply causation
+* Sensitive to outliers
+* Cannot capture non-linear relationships
+* Limited in explaining complex physiological interactions
 
 ---
 
