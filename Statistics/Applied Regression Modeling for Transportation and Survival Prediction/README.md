@@ -142,10 +142,10 @@ Key takeaway:
 
 ## Business Value
 This project demonstrates applied analytics skills relevant to data-driven roles:
-* 📊 Demand forecasting for transportation systems
-* ⚠️ Risk prediction using classification models
-* 📈 Feature importance analysis for decision-making
-* 🧠 Interpretation of statistical models for business stakeholders
+*  Demand forecasting for transportation systems
+*  Risk prediction using classification models
+*  Feature importance analysis for decision-making
+*  Interpretation of statistical models for business stakeholders
 ---
 
 ## Files
