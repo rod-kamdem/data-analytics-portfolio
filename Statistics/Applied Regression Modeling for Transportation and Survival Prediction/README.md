@@ -151,8 +151,8 @@ This project demonstrates applied analytics skills relevant to data-driven roles
 ## Files
 
 * `regression-analysis-sas` → SAS code
-* `bikes.xlsx` → dataset
-* `Titanic.xlsx` →  dataset
+* `bikes.csv` → dataset
+* `Titanic.csv` →  dataset
 * `technical_report.pdf` → Detailed statistical analysis
 * `business_report.pdf` → Simplified insights for non-technical audience
 
